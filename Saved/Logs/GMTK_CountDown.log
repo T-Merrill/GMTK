@@ -1640,3 +1640,15 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2026.07.23-07.05.31:175][317]LogExit: Transaction tracking system shut down
 [2026.07.23-07.05.31:233][317]LogExit: Object subsystem successfully closed.
 [2026.07.23-07.05.31:299][317]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.07.23-07.05.32:017][317]MemoryProfiler: Shutdown
+[2026.07.23-07.05.32:017][317]NetworkingProfiler: Shutdown
+[2026.07.23-07.05.32:017][317]LoadingProfiler: Shutdown
+[2026.07.23-07.05.32:017][317]TimingProfiler: Shutdown
+[2026.07.23-07.05.32:260][317]LogOpenImageDenoise: OIDN shutting down
+[2026.07.23-07.05.33:128][317]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.07.23-07.05.33:128][317]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2026.07.23-07.05.33:128][317]RenderDocPlugin: plugin has been unloaded.
+[2026.07.23-07.05.33:130][317]LogPakFile: Destroying PakPlatformFile
+[2026.07.23-07.05.33:229][317]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.07.23-07.05.33:256][317]LogExit: Exiting.
+[2026.07.23-07.05.33:261][317]Log file closed, 07/23/26 00:05:33
