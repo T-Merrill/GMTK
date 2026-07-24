@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"S:/GameJams/GMTK/Content/Van/Levels/VanTestingLevel.umap",
+				"S:/GameJams/GMTK/Content/Van/Assets/Human.uasset",
+				"S:/GameJams/GMTK/Content/Van/Assets/Human/Human_Walk.uasset",
+				"S:/GameJams/GMTK/Content/Van/Assets/Human/Human_Skeleton.uasset",
+				"S:/GameJams/GMTK/Content/Van/Assets/Human/Human_PhysicsAsset.uasset",
+				"S:/GameJams/GMTK/Content/Van/Assets/Human/Human_Idle.uasset",
+				"S:/GameJams/GMTK/Content/Van/Assets/Human/Human.uasset",
 				"C:/Users/taylo/Documents/Unreal Engine/GMTK/Content/Taylor/Levels/TestLevel.umap",
 				"C:/Users/taylo/Documents/Unreal Engine/GMTK/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
 				"C:/Users/taylo/Documents/Unreal Engine/GMTK/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
